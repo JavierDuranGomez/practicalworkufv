@@ -1,0 +1,104 @@
+header {
+    height: 175px;
+    background-color: rgb(225, 200, 186);
+ }
+
+ body {
+    background-image: url(../images/BACKGROUND.jpg);
+    background-size: cover;
+ }
+#one{
+    text-align: center;
+ }
+ #two{
+    text-align: center;
+ }
+ #three{
+    text-align: center;
+ }
+ h2{
+    text-align: center;
+    
+ }
+ #four{
+    padding: 10px;
+    text-align: justify;
+ }
+ #five{
+    background-color: azure;
+ }
+ #contact {
+    margin-left: 470px;
+ }
+ #DescriptionOfTheTopic {
+    display: inline-block;
+    margin: 20px; 
+    height: 700px; 
+    width: 600px;
+    background: rgb(185, 161, 147);
+ }
+ #FutureOfTechnology {
+    display: inline-block;
+    margin: 20px; 
+    height: 810px; 
+    width: 600px;
+    background: rgb(205, 204, 214);
+ }
+ #EthicalView {
+    margin: 20px; 
+    height: 350px; 
+    background: rgb(205, 204, 214);
+ }
+ #EthicalViewh2{
+    text-align: left;
+    padding: 40px;
+ }
+ #EthicalViewp{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    float: left;
+    width: 600px;
+    height: 400px;
+ }
+ #imgFakeNews{
+    float: left;
+    margin: 25px;
+    
+ }
+ #Examples {
+    margin: 100px; 
+    height: 200px; 
+    background: rgb(185, 161, 147);
+ }
+ #KnowMe{
+    display: inline-block;
+    margin: 20px;  
+    width: 400px; 
+    height: 450px; 
+    background: rgb(185, 161, 147);
+ }
+ #SocialMedia{
+    margin-right: 200px; 
+    margin-bottom: 30px;
+    margin-left: 20px;
+    width: 400px; 
+    height: 210px; 
+    background: rgb(185, 161, 147);
+    display: inline-block;
+ }
+ #CurriculumVitae{
+    margin: 20px;
+    margin-top: 100px;
+    height: 400px;
+    background-color:rgb(185, 161, 147) ;
+ }
+ #h3 {
+    text-align: center;
+ }
+ td {
+    text-align: center;
+ }
+ th {
+    text-align: center;
+ }
