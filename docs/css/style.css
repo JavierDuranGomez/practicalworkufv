@@ -121,7 +121,7 @@ header {
  #headerabout {
     height: 350px;
  }
- .h1about {
+ .headerabout .h1{
     padding-top: 150px;
     text-align: center
  }
