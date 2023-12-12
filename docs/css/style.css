@@ -15,6 +15,7 @@ header {
  }
  #three{
     text-align: center;
+    margin: 15px;
  }
  h2{
     text-align: center;
@@ -29,6 +30,11 @@ header {
  }
  #contact {
     margin-left: 470px;
+    margin-top: 20px; 
+    display: inline-block; 
+    width: 450px; 
+    height: 350px; 
+    background: rgb(185, 161, 147);
  }
  #DescriptionOfTheTopic {
     display: inline-block;
@@ -101,4 +107,106 @@ header {
  }
  th {
     text-align: center;
+ }
+ #personalwebsite {
+    margin-top: 20px; 
+    display: inline-block; 
+    width: 400px; 
+    height: 550px; 
+    background: rgb(185, 161, 147);
+ }
+ #indeximage {
+    padding-left: 25px;
+ }
+ #headerabout {
+    height: 350px;
+ }
+ .h1about {
+    padding-top: 150px;
+    text-align: center
+ }
+ #imagesabout {
+    float: right; 
+    margin: 20px; 
+    
+    margin-right: 200px;
+ }
+ #h2socialmedia {
+    padding: 20px;
+ }
+ #curriculumexperience {
+    float: left; 
+    width: 400px;
+    height: 400px; 
+    margin-left: 75px;
+ }
+ #curriculumeducation {
+    float: left;
+    width: 400px;
+    height: 400px;
+ }
+ #imageexperience {
+    margin: 20px;
+ }
+ #curriculumskills {
+    float: left;
+    width: 400px;
+    height: 400px;
+ }
+ #degree {
+    text-align: center; 
+    margin: 20px; 
+    display: inline-block;
+    height: 2100px; 
+    width: 97%; 
+    background: rgb(185, 161, 147);
+ }
+ #table1{
+    margin-left: 250px;
+ }
+ #table2{
+    margin-left: 330px;
+ }
+ #table4 {
+    margin-left: 355px;
+ }
+ #table5{
+    margin-left: 310px;
+ }
+ #th1 {
+    padding-left: 40px;
+ }
+ #th2 {
+    padding-left: 120px;
+ }
+ #th4 {
+    padding-left: 25px;
+ }
+ #th3 {
+    padding-left: 125px;
+ }
+ #th5 {
+    padding-left: 175px;
+ }
+ #th6 {
+    padding-left: 110px;
+ }
+ #fundamentals {
+    padding-left: 250px;
+    padding-right: 250px; 
+    text-align: center; 
+    margin: 20px; 
+    display: inline-block;
+    height: 600px; 
+    width: 59%; 
+    background: rgb(185, 161, 147);
+ }
+ #textfundamentals {
+    padding-top: 50px;
+ }
+ #imagefundamentals {
+    padding-left: 200px;
+    padding-right: 250px;
+    height: 200px; 
+    padding-top: 45px;
  }
