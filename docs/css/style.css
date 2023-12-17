@@ -210,3 +210,20 @@ header {
     height: 200px; 
     padding-top: 45px;
  }
+ #bodynet {
+   padding-left: 250px;
+   padding-right: 250px; 
+   text-align: center; 
+   margin: 20px; 
+   display: inline-block;
+   height: 600px; 
+   width: 59%; 
+   background: rgb(185, 161, 147);
+ }
+ #h2net{
+   text-align: center;
+ }
+ #listanet{
+   text-align: left;
+   padding-left: 340px;
+ }
